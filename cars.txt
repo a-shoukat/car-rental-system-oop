@@ -1,0 +1,12 @@
+Toyota,Corolla,5000
+Honda,Civic,7000
+Suzuki,Swift,4000
+Kia,Sportage,9000
+Hyundai,Tucson,8500
+Toyota,Yaris,4500
+Honda,City,5500
+Suzuki,Cultus,3500
+Kia,Picanto,3800
+Daihatsu,Mira,3000
+Toyota,Fortuner,12000
+Honda,BR-V,8000
